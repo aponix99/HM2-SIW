@@ -1,0 +1,63 @@
+body {
+    font-family: Helvetica;
+  }
+  h1 {
+    text-align: center;
+    background-color: aqua;
+    width: 1100px;
+    
+  }
+  a {
+    text-align: center;
+  }
+  p {
+    border: 3px solid hotpink;
+    background-color: lavenderblush;
+  }
+ 
+
+  h2{
+    border: 3px solid black;  
+  }
+
+ul{
+  
+
+}
+.title{
+  font-family: Helvetica;
+  font-size: 40px;
+  text-align: left;
+  color: blue;
+}
+
+.informazioni{
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  border: 3px solid blue;
+  font-family: sans-serif;
+}
+h4{
+  width: 600px;
+  height: 800px;
+  text-align: center;
+  border: 3px solid violet;
+}
+
+h5{
+  text-align: left;
+  padding-left: 20px;
+}
+
+.main{
+  width: 1100px;
+  height: 800px;
+  text-align: center;
+  border: 2px solid darkgreen;
+  font-family: sans-serif;
+  position: absolute;
+  right: 10px;
+  top:  20px;
+ 
+}
